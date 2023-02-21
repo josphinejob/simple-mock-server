@@ -1,0 +1,19 @@
+{
+  "id" : "6a529fd1-a606-4d56-8c07-542a3d0901ec",
+  "name" : "list-users",
+  "request" : {
+    "url" : "/api/users?page=2/",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "reqres/users-page2-with-query.json",
+    "headers" : {
+      "Accept" : "*/*",
+      "Accept-Encoding" : "gzip, deflate, br",
+      "Content-Type" : "application/json",
+      "Cache-Control" : "no-cache",
+      "Connection" : "keep-alive"
+    }
+  }
+}
